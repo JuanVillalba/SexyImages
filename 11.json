@@ -1,0 +1,45 @@
+{
+  "image": "https://raw.githubusercontent.com/JuanVillalba/SexyImages/main/11.png",
+  "name": "Anime SEXY #11",
+  "external_url": "https://www.allanimesnft.xyz/",
+  "description": "All the anime and manga that exist at your fingertips. What are you waiting to have one?",
+  "collection": "Anime SEXY",
+  "attributes": [
+    {
+      "type": "Background",
+      "name": "Red_Round Frame"
+    },
+    {
+      "type": "Characters",
+      "name": "Doberman"
+    },
+    {
+      "type": "Hats",
+      "name": "Captain Wanda"
+    },
+    {
+      "type": "Paintings",
+      "name": "Serious man"
+    },
+    {
+      "type": "Tickets",
+      "name": "Poisoner"
+    },
+    {
+      "type": "Weapons",
+      "name": "Ice_Mage"
+    }
+  ],
+  "levels": [],
+  "stats": [],
+  "unlockable_content": [],
+  "explicit_and_sensitive_content": false,
+  "supply": 1,
+  "blockchain": "Polygon",
+  "price": 0.001,
+  "quantity": 1,
+  "dna": "56b9d90aeb117fa254717f3747ed9d5b28c73c7c",
+  "edition": 11,
+  "date": 1644356476789,
+  "compiler": "Alpha & Omega"
+}

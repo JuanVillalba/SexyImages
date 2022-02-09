@@ -1,0 +1,45 @@
+{
+  "image": "https://raw.githubusercontent.com/JuanVillalba/SexyImages/main/41.png",
+  "name": "Anime SEXY #41",
+  "external_url": "https://www.allanimesnft.xyz/",
+  "description": "All the anime and manga that exist at your fingertips. What are you waiting to have one?",
+  "collection": "Anime SEXY",
+  "attributes": [
+    {
+      "type": "Background",
+      "name": "Light Blue_Wavy Frame"
+    },
+    {
+      "type": "Characters",
+      "name": "Flamingo"
+    },
+    {
+      "type": "Hats",
+      "name": "Captain Wanda"
+    },
+    {
+      "type": "Paintings",
+      "name": "Lying down"
+    },
+    {
+      "type": "Tickets",
+      "name": "Killer"
+    },
+    {
+      "type": "Weapons",
+      "name": "Captain_Wanda"
+    }
+  ],
+  "levels": [],
+  "stats": [],
+  "unlockable_content": [],
+  "explicit_and_sensitive_content": false,
+  "supply": 1,
+  "blockchain": "Polygon",
+  "price": 0.001,
+  "quantity": 1,
+  "dna": "06531db4b4b1a5c3d54b2efc44f470b99d8d7de6",
+  "edition": 41,
+  "date": 1644356479077,
+  "compiler": "Alpha & Omega"
+}

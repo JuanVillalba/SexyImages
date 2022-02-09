@@ -1,0 +1,45 @@
+{
+  "image": "https://raw.githubusercontent.com/JuanVillalba/SexyImages/main/1.png",
+  "name": "Anime SEXY #1",
+  "external_url": "https://www.allanimesnft.xyz/",
+  "description": "All the anime and manga that exist at your fingertips. What are you waiting to have one?",
+  "collection": "Anime SEXY",
+  "attributes": [
+    {
+      "type": "Background",
+      "name": "Lime Green_Round Frame"
+    },
+    {
+      "type": "Characters",
+      "name": "Eagle"
+    },
+    {
+      "type": "Hats",
+      "name": "Baseball"
+    },
+    {
+      "type": "Paintings",
+      "name": "Woman"
+    },
+    {
+      "type": "Tickets",
+      "name": "Guest"
+    },
+    {
+      "type": "Weapons",
+      "name": "Caveman"
+    }
+  ],
+  "levels": [],
+  "stats": [],
+  "unlockable_content": [],
+  "explicit_and_sensitive_content": false,
+  "supply": 1,
+  "blockchain": "Polygon",
+  "price": 0.001,
+  "quantity": 1,
+  "dna": "a07c1636a96b5869e09b919b8575a6f9878d2481",
+  "edition": 1,
+  "date": 1644356476013,
+  "compiler": "Alpha & Omega"
+}

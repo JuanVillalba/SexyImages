@@ -1,0 +1,45 @@
+{
+  "image": "https://raw.githubusercontent.com/JuanVillalba/SexyImages/main/42.png",
+  "name": "Anime SEXY #42",
+  "external_url": "https://www.allanimesnft.xyz/",
+  "description": "All the anime and manga that exist at your fingertips. What are you waiting to have one?",
+  "collection": "Anime SEXY",
+  "attributes": [
+    {
+      "type": "Background",
+      "name": "Lime Green_Round Frame"
+    },
+    {
+      "type": "Characters",
+      "name": "Bat"
+    },
+    {
+      "type": "Hats",
+      "name": "Hat"
+    },
+    {
+      "type": "Paintings",
+      "name": "Abstract"
+    },
+    {
+      "type": "Tickets",
+      "name": "Guest"
+    },
+    {
+      "type": "Weapons",
+      "name": "Killer_Toy"
+    }
+  ],
+  "levels": [],
+  "stats": [],
+  "unlockable_content": [],
+  "explicit_and_sensitive_content": false,
+  "supply": 1,
+  "blockchain": "Polygon",
+  "price": 0.001,
+  "quantity": 1,
+  "dna": "a19256d99c07e4d8e925f2e068c71d0c29c99c43",
+  "edition": 42,
+  "date": 1644356479151,
+  "compiler": "Alpha & Omega"
+}

@@ -1,0 +1,45 @@
+{
+  "image": "https://raw.githubusercontent.com/JuanVillalba/SexyImages/main/44.png",
+  "name": "Anime SEXY #44",
+  "external_url": "https://www.allanimesnft.xyz/",
+  "description": "All the anime and manga that exist at your fingertips. What are you waiting to have one?",
+  "collection": "Anime SEXY",
+  "attributes": [
+    {
+      "type": "Background",
+      "name": "Purple_Round Frame"
+    },
+    {
+      "type": "Characters",
+      "name": "Elephant"
+    },
+    {
+      "type": "Hats",
+      "name": "Baseball"
+    },
+    {
+      "type": "Paintings",
+      "name": "Flowers"
+    },
+    {
+      "type": "Tickets",
+      "name": "Vigilant"
+    },
+    {
+      "type": "Weapons",
+      "name": "Intergalactic_Explorer"
+    }
+  ],
+  "levels": [],
+  "stats": [],
+  "unlockable_content": [],
+  "explicit_and_sensitive_content": false,
+  "supply": 1,
+  "blockchain": "Polygon",
+  "price": 0.001,
+  "quantity": 1,
+  "dna": "cbfb51ddb765d97ed4cfdc6fefdfe9506b86bc78",
+  "edition": 44,
+  "date": 1644356479286,
+  "compiler": "Alpha & Omega"
+}

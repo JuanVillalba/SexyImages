@@ -1,0 +1,45 @@
+{
+  "image": "https://raw.githubusercontent.com/JuanVillalba/SexyImages/main/47.png",
+  "name": "Anime SEXY #47",
+  "external_url": "https://www.allanimesnft.xyz/",
+  "description": "All the anime and manga that exist at your fingertips. What are you waiting to have one?",
+  "collection": "Anime SEXY",
+  "attributes": [
+    {
+      "type": "Background",
+      "name": "Orange_Round Frame"
+    },
+    {
+      "type": "Characters",
+      "name": "Buffalo"
+    },
+    {
+      "type": "Hats",
+      "name": "Ares"
+    },
+    {
+      "type": "Paintings",
+      "name": "Seated Man"
+    },
+    {
+      "type": "Tickets",
+      "name": "Vigilant"
+    },
+    {
+      "type": "Weapons",
+      "name": "Hyena_Queen"
+    }
+  ],
+  "levels": [],
+  "stats": [],
+  "unlockable_content": [],
+  "explicit_and_sensitive_content": false,
+  "supply": 1,
+  "blockchain": "Polygon",
+  "price": 0.001,
+  "quantity": 1,
+  "dna": "8088843f4075a386ca62bd1b05218e7b191de32f",
+  "edition": 47,
+  "date": 1644356479493,
+  "compiler": "Alpha & Omega"
+}

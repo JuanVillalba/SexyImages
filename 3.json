@@ -1,0 +1,45 @@
+{
+  "image": "https://raw.githubusercontent.com/JuanVillalba/SexyImages/main/3.png",
+  "name": "Anime SEXY #3",
+  "external_url": "https://www.allanimesnft.xyz/",
+  "description": "All the anime and manga that exist at your fingertips. What are you waiting to have one?",
+  "collection": "Anime SEXY",
+  "attributes": [
+    {
+      "type": "Background",
+      "name": "Orange_Round Frame"
+    },
+    {
+      "type": "Characters",
+      "name": "Elephant"
+    },
+    {
+      "type": "Hats",
+      "name": "Captain"
+    },
+    {
+      "type": "Paintings",
+      "name": "Flowers"
+    },
+    {
+      "type": "Tickets",
+      "name": "Spy"
+    },
+    {
+      "type": "Weapons",
+      "name": "Caveman"
+    }
+  ],
+  "levels": [],
+  "stats": [],
+  "unlockable_content": [],
+  "explicit_and_sensitive_content": false,
+  "supply": 1,
+  "blockchain": "Polygon",
+  "price": 0.001,
+  "quantity": 1,
+  "dna": "9ba4f7fbe147201813e097b71552f28c58b1bb05",
+  "edition": 3,
+  "date": 1644356476169,
+  "compiler": "Alpha & Omega"
+}

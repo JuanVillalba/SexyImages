@@ -1,0 +1,45 @@
+{
+  "image": "https://raw.githubusercontent.com/JuanVillalba/SexyImages/main/13.png",
+  "name": "Anime SEXY #13",
+  "external_url": "https://www.allanimesnft.xyz/",
+  "description": "All the anime and manga that exist at your fingertips. What are you waiting to have one?",
+  "collection": "Anime SEXY",
+  "attributes": [
+    {
+      "type": "Background",
+      "name": "Yellow_Wavy Frame"
+    },
+    {
+      "type": "Characters",
+      "name": "Crocodile"
+    },
+    {
+      "type": "Hats",
+      "name": "Ares"
+    },
+    {
+      "type": "Paintings",
+      "name": "Woman1"
+    },
+    {
+      "type": "Tickets",
+      "name": "Vigilant"
+    },
+    {
+      "type": "Weapons",
+      "name": "Captain_Wanda"
+    }
+  ],
+  "levels": [],
+  "stats": [],
+  "unlockable_content": [],
+  "explicit_and_sensitive_content": false,
+  "supply": 1,
+  "blockchain": "Polygon",
+  "price": 0.001,
+  "quantity": 1,
+  "dna": "423433a6e4ae7ffc0ff97a64d8731cc50680ee3e",
+  "edition": 13,
+  "date": 1644356476934,
+  "compiler": "Alpha & Omega"
+}

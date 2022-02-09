@@ -1,0 +1,45 @@
+{
+  "image": "https://raw.githubusercontent.com/JuanVillalba/SexyImages/main/4.png",
+  "name": "Anime SEXY #4",
+  "external_url": "https://www.allanimesnft.xyz/",
+  "description": "All the anime and manga that exist at your fingertips. What are you waiting to have one?",
+  "collection": "Anime SEXY",
+  "attributes": [
+    {
+      "type": "Background",
+      "name": "Light Blue_Round Frame"
+    },
+    {
+      "type": "Characters",
+      "name": "Chameleon"
+    },
+    {
+      "type": "Hats",
+      "name": "Baseball"
+    },
+    {
+      "type": "Paintings",
+      "name": "Medo"
+    },
+    {
+      "type": "Tickets",
+      "name": "Detective"
+    },
+    {
+      "type": "Weapons",
+      "name": "Ares"
+    }
+  ],
+  "levels": [],
+  "stats": [],
+  "unlockable_content": [],
+  "explicit_and_sensitive_content": false,
+  "supply": 1,
+  "blockchain": "Polygon",
+  "price": 0.001,
+  "quantity": 1,
+  "dna": "f2b927afcdc4a90ccd6f700c99efa0495e4003cd",
+  "edition": 4,
+  "date": 1644356476237,
+  "compiler": "Alpha & Omega"
+}

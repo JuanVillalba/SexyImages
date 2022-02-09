@@ -1,0 +1,45 @@
+{
+  "image": "https://raw.githubusercontent.com/JuanVillalba/SexyImages/main/34.png",
+  "name": "Anime SEXY #34",
+  "external_url": "https://www.allanimesnft.xyz/",
+  "description": "All the anime and manga that exist at your fingertips. What are you waiting to have one?",
+  "collection": "Anime SEXY",
+  "attributes": [
+    {
+      "type": "Background",
+      "name": "Orange_Round Frame"
+    },
+    {
+      "type": "Characters",
+      "name": "Buffalo"
+    },
+    {
+      "type": "Hats",
+      "name": "Captain"
+    },
+    {
+      "type": "Paintings",
+      "name": "Flowers"
+    },
+    {
+      "type": "Tickets",
+      "name": "Pack"
+    },
+    {
+      "type": "Weapons",
+      "name": "Desert_Survivor"
+    }
+  ],
+  "levels": [],
+  "stats": [],
+  "unlockable_content": [],
+  "explicit_and_sensitive_content": false,
+  "supply": 1,
+  "blockchain": "Polygon",
+  "price": 0.001,
+  "quantity": 1,
+  "dna": "de520275d2e007ad155aef0690723bdb48ba040a",
+  "edition": 34,
+  "date": 1644356478554,
+  "compiler": "Alpha & Omega"
+}

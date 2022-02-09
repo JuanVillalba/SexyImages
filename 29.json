@@ -1,0 +1,45 @@
+{
+  "image": "https://raw.githubusercontent.com/JuanVillalba/SexyImages/main/29.png",
+  "name": "Anime SEXY #29",
+  "external_url": "https://www.allanimesnft.xyz/",
+  "description": "All the anime and manga that exist at your fingertips. What are you waiting to have one?",
+  "collection": "Anime SEXY",
+  "attributes": [
+    {
+      "type": "Background",
+      "name": "Lime Green_Round Frame"
+    },
+    {
+      "type": "Characters",
+      "name": "Cat"
+    },
+    {
+      "type": "Hats",
+      "name": "Captain"
+    },
+    {
+      "type": "Paintings",
+      "name": "Abstract"
+    },
+    {
+      "type": "Tickets",
+      "name": "Inspector"
+    },
+    {
+      "type": "Weapons",
+      "name": "Hyena_Queen"
+    }
+  ],
+  "levels": [],
+  "stats": [],
+  "unlockable_content": [],
+  "explicit_and_sensitive_content": false,
+  "supply": 1,
+  "blockchain": "Polygon",
+  "price": 0.001,
+  "quantity": 1,
+  "dna": "bb47601a3d4df4bcca50db7209e93a47bc09ab1f",
+  "edition": 29,
+  "date": 1644356478198,
+  "compiler": "Alpha & Omega"
+}

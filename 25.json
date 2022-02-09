@@ -1,0 +1,45 @@
+{
+  "image": "https://raw.githubusercontent.com/JuanVillalba/SexyImages/main/25.png",
+  "name": "Anime SEXY #25",
+  "external_url": "https://www.allanimesnft.xyz/",
+  "description": "All the anime and manga that exist at your fingertips. What are you waiting to have one?",
+  "collection": "Anime SEXY",
+  "attributes": [
+    {
+      "type": "Background",
+      "name": "Green_Round Frame"
+    },
+    {
+      "type": "Characters",
+      "name": "Doberman"
+    },
+    {
+      "type": "Hats",
+      "name": "Ares"
+    },
+    {
+      "type": "Paintings",
+      "name": "Serious man"
+    },
+    {
+      "type": "Tickets",
+      "name": "Boogieman"
+    },
+    {
+      "type": "Weapons",
+      "name": "Killer_Toy"
+    }
+  ],
+  "levels": [],
+  "stats": [],
+  "unlockable_content": [],
+  "explicit_and_sensitive_content": false,
+  "supply": 1,
+  "blockchain": "Polygon",
+  "price": 0.001,
+  "quantity": 1,
+  "dna": "acac47e18b530c7dfb707b3b0bdff8ed0759a430",
+  "edition": 25,
+  "date": 1644356477913,
+  "compiler": "Alpha & Omega"
+}

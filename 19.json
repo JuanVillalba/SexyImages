@@ -1,0 +1,45 @@
+{
+  "image": "https://raw.githubusercontent.com/JuanVillalba/SexyImages/main/19.png",
+  "name": "Anime SEXY #19",
+  "external_url": "https://www.allanimesnft.xyz/",
+  "description": "All the anime and manga that exist at your fingertips. What are you waiting to have one?",
+  "collection": "Anime SEXY",
+  "attributes": [
+    {
+      "type": "Background",
+      "name": "Orange_Round Frame"
+    },
+    {
+      "type": "Characters",
+      "name": "Eagle"
+    },
+    {
+      "type": "Hats",
+      "name": "Captain Wanda"
+    },
+    {
+      "type": "Paintings",
+      "name": "Abstract"
+    },
+    {
+      "type": "Tickets",
+      "name": "Mayor"
+    },
+    {
+      "type": "Weapons",
+      "name": "Ares"
+    }
+  ],
+  "levels": [],
+  "stats": [],
+  "unlockable_content": [],
+  "explicit_and_sensitive_content": false,
+  "supply": 1,
+  "blockchain": "Polygon",
+  "price": 0.001,
+  "quantity": 1,
+  "dna": "cbb7cd3808f0fe146fd0953dc0266c413e17d1ec",
+  "edition": 19,
+  "date": 1644356477476,
+  "compiler": "Alpha & Omega"
+}

@@ -1,0 +1,45 @@
+{
+  "image": "https://raw.githubusercontent.com/JuanVillalba/SexyImages/main/40.png",
+  "name": "Anime SEXY #40",
+  "external_url": "https://www.allanimesnft.xyz/",
+  "description": "All the anime and manga that exist at your fingertips. What are you waiting to have one?",
+  "collection": "Anime SEXY",
+  "attributes": [
+    {
+      "type": "Background",
+      "name": "Orange_Wavy Frame"
+    },
+    {
+      "type": "Characters",
+      "name": "Buffalo"
+    },
+    {
+      "type": "Hats",
+      "name": "Hat"
+    },
+    {
+      "type": "Paintings",
+      "name": "Flowers"
+    },
+    {
+      "type": "Tickets",
+      "name": "Vigilant"
+    },
+    {
+      "type": "Weapons",
+      "name": "Apprentice"
+    }
+  ],
+  "levels": [],
+  "stats": [],
+  "unlockable_content": [],
+  "explicit_and_sensitive_content": false,
+  "supply": 1,
+  "blockchain": "Polygon",
+  "price": 0.001,
+  "quantity": 1,
+  "dna": "0dd75e2122b9f3f04e7fdee6709c0fa544aeb9c6",
+  "edition": 40,
+  "date": 1644356479002,
+  "compiler": "Alpha & Omega"
+}

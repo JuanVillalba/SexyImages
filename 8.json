@@ -1,0 +1,45 @@
+{
+  "image": "https://raw.githubusercontent.com/JuanVillalba/SexyImages/main/8.png",
+  "name": "Anime SEXY #8",
+  "external_url": "https://www.allanimesnft.xyz/",
+  "description": "All the anime and manga that exist at your fingertips. What are you waiting to have one?",
+  "collection": "Anime SEXY",
+  "attributes": [
+    {
+      "type": "Background",
+      "name": "Purple_Wavy Frame"
+    },
+    {
+      "type": "Characters",
+      "name": "Flamingo"
+    },
+    {
+      "type": "Hats",
+      "name": "Ares"
+    },
+    {
+      "type": "Paintings",
+      "name": "Bearded Man"
+    },
+    {
+      "type": "Tickets",
+      "name": "Boogieman"
+    },
+    {
+      "type": "Weapons",
+      "name": "Horn"
+    }
+  ],
+  "levels": [],
+  "stats": [],
+  "unlockable_content": [],
+  "explicit_and_sensitive_content": false,
+  "supply": 1,
+  "blockchain": "Polygon",
+  "price": 0.001,
+  "quantity": 1,
+  "dna": "5e82f1610b89355daaf4ae10c60a2d2414acaf68",
+  "edition": 8,
+  "date": 1644356476536,
+  "compiler": "Alpha & Omega"
+}

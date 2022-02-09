@@ -1,0 +1,45 @@
+{
+  "image": "https://raw.githubusercontent.com/JuanVillalba/SexyImages/main/50.png",
+  "name": "Anime SEXY #50",
+  "external_url": "https://www.allanimesnft.xyz/",
+  "description": "All the anime and manga that exist at your fingertips. What are you waiting to have one?",
+  "collection": "Anime SEXY",
+  "attributes": [
+    {
+      "type": "Background",
+      "name": "Blue_Wavy Frame"
+    },
+    {
+      "type": "Characters",
+      "name": "Cat"
+    },
+    {
+      "type": "Hats",
+      "name": "Berserker"
+    },
+    {
+      "type": "Paintings",
+      "name": "Woman1"
+    },
+    {
+      "type": "Tickets",
+      "name": "Detective"
+    },
+    {
+      "type": "Weapons",
+      "name": "Killer_Toy"
+    }
+  ],
+  "levels": [],
+  "stats": [],
+  "unlockable_content": [],
+  "explicit_and_sensitive_content": false,
+  "supply": 1,
+  "blockchain": "Polygon",
+  "price": 0.001,
+  "quantity": 1,
+  "dna": "788b869fbd9aa26778c0ef22c66fe5788df6e22c",
+  "edition": 50,
+  "date": 1644356479717,
+  "compiler": "Alpha & Omega"
+}

@@ -1,0 +1,45 @@
+{
+  "image": "https://raw.githubusercontent.com/JuanVillalba/SexyImages/main/2.png",
+  "name": "Anime SEXY #2",
+  "external_url": "https://www.allanimesnft.xyz/",
+  "description": "All the anime and manga that exist at your fingertips. What are you waiting to have one?",
+  "collection": "Anime SEXY",
+  "attributes": [
+    {
+      "type": "Background",
+      "name": "Light Blue_Wavy Frame"
+    },
+    {
+      "type": "Characters",
+      "name": "Buffalo"
+    },
+    {
+      "type": "Hats",
+      "name": "Baseball"
+    },
+    {
+      "type": "Paintings",
+      "name": "Woman1"
+    },
+    {
+      "type": "Tickets",
+      "name": "Spy"
+    },
+    {
+      "type": "Weapons",
+      "name": "Lumberjack"
+    }
+  ],
+  "levels": [],
+  "stats": [],
+  "unlockable_content": [],
+  "explicit_and_sensitive_content": false,
+  "supply": 1,
+  "blockchain": "Polygon",
+  "price": 0.001,
+  "quantity": 1,
+  "dna": "46df40d4b326079650dee76f3f88c5886d091136",
+  "edition": 2,
+  "date": 1644356476093,
+  "compiler": "Alpha & Omega"
+}

@@ -1,0 +1,45 @@
+{
+  "image": "https://raw.githubusercontent.com/JuanVillalba/SexyImages/main/49.png",
+  "name": "Anime SEXY #49",
+  "external_url": "https://www.allanimesnft.xyz/",
+  "description": "All the anime and manga that exist at your fingertips. What are you waiting to have one?",
+  "collection": "Anime SEXY",
+  "attributes": [
+    {
+      "type": "Background",
+      "name": "Orange_Round Frame"
+    },
+    {
+      "type": "Characters",
+      "name": "Eagle"
+    },
+    {
+      "type": "Hats",
+      "name": "Captain"
+    },
+    {
+      "type": "Paintings",
+      "name": "Lying down"
+    },
+    {
+      "type": "Tickets",
+      "name": "Poisoner"
+    },
+    {
+      "type": "Weapons",
+      "name": "Mr_Friday"
+    }
+  ],
+  "levels": [],
+  "stats": [],
+  "unlockable_content": [],
+  "explicit_and_sensitive_content": false,
+  "supply": 1,
+  "blockchain": "Polygon",
+  "price": 0.001,
+  "quantity": 1,
+  "dna": "ae3482d97878986a814a88de1ba55af925f5b3c2",
+  "edition": 49,
+  "date": 1644356479645,
+  "compiler": "Alpha & Omega"
+}

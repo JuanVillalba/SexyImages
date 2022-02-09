@@ -1,0 +1,45 @@
+{
+  "image": "https://raw.githubusercontent.com/JuanVillalba/SexyImages/main/32.png",
+  "name": "Anime SEXY #32",
+  "external_url": "https://www.allanimesnft.xyz/",
+  "description": "All the anime and manga that exist at your fingertips. What are you waiting to have one?",
+  "collection": "Anime SEXY",
+  "attributes": [
+    {
+      "type": "Background",
+      "name": "Lime Green_Round Frame"
+    },
+    {
+      "type": "Characters",
+      "name": "Cat"
+    },
+    {
+      "type": "Hats",
+      "name": "Ares"
+    },
+    {
+      "type": "Paintings",
+      "name": "Seated Man"
+    },
+    {
+      "type": "Tickets",
+      "name": "Vigilant"
+    },
+    {
+      "type": "Weapons",
+      "name": "Horn"
+    }
+  ],
+  "levels": [],
+  "stats": [],
+  "unlockable_content": [],
+  "explicit_and_sensitive_content": false,
+  "supply": 1,
+  "blockchain": "Polygon",
+  "price": 0.001,
+  "quantity": 1,
+  "dna": "4f0ae228325a71b8bcc95a4bb7ca04f38f53196a",
+  "edition": 32,
+  "date": 1644356478406,
+  "compiler": "Alpha & Omega"
+}

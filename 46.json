@@ -1,0 +1,45 @@
+{
+  "image": "https://raw.githubusercontent.com/JuanVillalba/SexyImages/main/46.png",
+  "name": "Anime SEXY #46",
+  "external_url": "https://www.allanimesnft.xyz/",
+  "description": "All the anime and manga that exist at your fingertips. What are you waiting to have one?",
+  "collection": "Anime SEXY",
+  "attributes": [
+    {
+      "type": "Background",
+      "name": "Green_Round Frame"
+    },
+    {
+      "type": "Characters",
+      "name": "Crocodile"
+    },
+    {
+      "type": "Hats",
+      "name": "Captain Wanda"
+    },
+    {
+      "type": "Paintings",
+      "name": "Seated Man"
+    },
+    {
+      "type": "Tickets",
+      "name": "Boogieman"
+    },
+    {
+      "type": "Weapons",
+      "name": "Lumberjack"
+    }
+  ],
+  "levels": [],
+  "stats": [],
+  "unlockable_content": [],
+  "explicit_and_sensitive_content": false,
+  "supply": 1,
+  "blockchain": "Polygon",
+  "price": 0.001,
+  "quantity": 1,
+  "dna": "89616a204b7d00c678a6c9a7acb05a7efec1742d",
+  "edition": 46,
+  "date": 1644356479423,
+  "compiler": "Alpha & Omega"
+}

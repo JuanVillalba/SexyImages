@@ -1,0 +1,45 @@
+{
+  "image": "https://raw.githubusercontent.com/JuanVillalba/SexyImages/main/33.png",
+  "name": "Anime SEXY #33",
+  "external_url": "https://www.allanimesnft.xyz/",
+  "description": "All the anime and manga that exist at your fingertips. What are you waiting to have one?",
+  "collection": "Anime SEXY",
+  "attributes": [
+    {
+      "type": "Background",
+      "name": "Pink_Wavy Frame"
+    },
+    {
+      "type": "Characters",
+      "name": "Buffalo"
+    },
+    {
+      "type": "Hats",
+      "name": "Captain"
+    },
+    {
+      "type": "Paintings",
+      "name": "Medo"
+    },
+    {
+      "type": "Tickets",
+      "name": "Detective"
+    },
+    {
+      "type": "Weapons",
+      "name": "Captain_Wanda"
+    }
+  ],
+  "levels": [],
+  "stats": [],
+  "unlockable_content": [],
+  "explicit_and_sensitive_content": false,
+  "supply": 1,
+  "blockchain": "Polygon",
+  "price": 0.001,
+  "quantity": 1,
+  "dna": "c7218e1c527b71b8dd893809b119af3c9feeb27c",
+  "edition": 33,
+  "date": 1644356478479,
+  "compiler": "Alpha & Omega"
+}

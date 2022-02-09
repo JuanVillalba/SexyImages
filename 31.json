@@ -1,0 +1,45 @@
+{
+  "image": "https://raw.githubusercontent.com/JuanVillalba/SexyImages/main/31.png",
+  "name": "Anime SEXY #31",
+  "external_url": "https://www.allanimesnft.xyz/",
+  "description": "All the anime and manga that exist at your fingertips. What are you waiting to have one?",
+  "collection": "Anime SEXY",
+  "attributes": [
+    {
+      "type": "Background",
+      "name": "Purple_Wavy Frame"
+    },
+    {
+      "type": "Characters",
+      "name": "Elephant"
+    },
+    {
+      "type": "Hats",
+      "name": "Ares"
+    },
+    {
+      "type": "Paintings",
+      "name": "Monet"
+    },
+    {
+      "type": "Tickets",
+      "name": "Guest"
+    },
+    {
+      "type": "Weapons",
+      "name": "Horn"
+    }
+  ],
+  "levels": [],
+  "stats": [],
+  "unlockable_content": [],
+  "explicit_and_sensitive_content": false,
+  "supply": 1,
+  "blockchain": "Polygon",
+  "price": 0.001,
+  "quantity": 1,
+  "dna": "012fa5c255255ca8c95098b6bc9ae14c1929381a",
+  "edition": 31,
+  "date": 1644356478339,
+  "compiler": "Alpha & Omega"
+}

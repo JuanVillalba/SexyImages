@@ -1,0 +1,45 @@
+{
+  "image": "https://raw.githubusercontent.com/JuanVillalba/SexyImages/main/17.png",
+  "name": "Anime SEXY #17",
+  "external_url": "https://www.allanimesnft.xyz/",
+  "description": "All the anime and manga that exist at your fingertips. What are you waiting to have one?",
+  "collection": "Anime SEXY",
+  "attributes": [
+    {
+      "type": "Background",
+      "name": "Blue_Round Frame"
+    },
+    {
+      "type": "Characters",
+      "name": "Elephant"
+    },
+    {
+      "type": "Hats",
+      "name": "Berserker"
+    },
+    {
+      "type": "Paintings",
+      "name": "The son of Man"
+    },
+    {
+      "type": "Tickets",
+      "name": "Inspector"
+    },
+    {
+      "type": "Weapons",
+      "name": "Hyena_Queen"
+    }
+  ],
+  "levels": [],
+  "stats": [],
+  "unlockable_content": [],
+  "explicit_and_sensitive_content": false,
+  "supply": 1,
+  "blockchain": "Polygon",
+  "price": 0.001,
+  "quantity": 1,
+  "dna": "7634d4483801c73deeb0d74a794b26246f2d651f",
+  "edition": 17,
+  "date": 1644356477327,
+  "compiler": "Alpha & Omega"
+}

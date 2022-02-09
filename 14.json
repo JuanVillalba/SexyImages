@@ -1,0 +1,45 @@
+{
+  "image": "https://raw.githubusercontent.com/JuanVillalba/SexyImages/main/14.png",
+  "name": "Anime SEXY #14",
+  "external_url": "https://www.allanimesnft.xyz/",
+  "description": "All the anime and manga that exist at your fingertips. What are you waiting to have one?",
+  "collection": "Anime SEXY",
+  "attributes": [
+    {
+      "type": "Background",
+      "name": "Yellow_Round Frame"
+    },
+    {
+      "type": "Characters",
+      "name": "Flamingo"
+    },
+    {
+      "type": "Hats",
+      "name": "Captain"
+    },
+    {
+      "type": "Paintings",
+      "name": "Angry"
+    },
+    {
+      "type": "Tickets",
+      "name": "Boogieman"
+    },
+    {
+      "type": "Weapons",
+      "name": "Ice_Mage"
+    }
+  ],
+  "levels": [],
+  "stats": [],
+  "unlockable_content": [],
+  "explicit_and_sensitive_content": false,
+  "supply": 1,
+  "blockchain": "Polygon",
+  "price": 0.001,
+  "quantity": 1,
+  "dna": "ceb88366fe0774cf8999757b64638bf723874f0d",
+  "edition": 14,
+  "date": 1644356477013,
+  "compiler": "Alpha & Omega"
+}

@@ -1,0 +1,45 @@
+{
+  "image": "https://raw.githubusercontent.com/JuanVillalba/SexyImages/main/22.png",
+  "name": "Anime SEXY #22",
+  "external_url": "https://www.allanimesnft.xyz/",
+  "description": "All the anime and manga that exist at your fingertips. What are you waiting to have one?",
+  "collection": "Anime SEXY",
+  "attributes": [
+    {
+      "type": "Background",
+      "name": "Yellow_Round Frame"
+    },
+    {
+      "type": "Characters",
+      "name": "Bat"
+    },
+    {
+      "type": "Hats",
+      "name": "Berserker"
+    },
+    {
+      "type": "Paintings",
+      "name": "Woman"
+    },
+    {
+      "type": "Tickets",
+      "name": "Detective"
+    },
+    {
+      "type": "Weapons",
+      "name": "Desert_Survivor"
+    }
+  ],
+  "levels": [],
+  "stats": [],
+  "unlockable_content": [],
+  "explicit_and_sensitive_content": false,
+  "supply": 1,
+  "blockchain": "Polygon",
+  "price": 0.001,
+  "quantity": 1,
+  "dna": "6161f2e3f44c298bf0e0d02c02d11fc7594a8f4f",
+  "edition": 22,
+  "date": 1644356477692,
+  "compiler": "Alpha & Omega"
+}
