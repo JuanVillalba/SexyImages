@@ -4,7 +4,7 @@
   "external_url": "https://www.allanimesnft.xyz/",
   "description": "All the anime and manga that exist at your fingertips. What are you waiting to have one?",
   "collection": "Anime SEXY",
-  {"attributes":
+  "attributes":
 	[
 		{"trait_type":"base","value":"narwhal"},
 		{"trait_type":"eyes","value":"sleepy"},
